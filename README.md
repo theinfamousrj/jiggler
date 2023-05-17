@@ -14,14 +14,12 @@ This complex jiggler jiggles the mouse every 30 seconds by default but it has th
 
 ## hardware
 ### my hardware
-I run this on a [Teensy 3.X](https://www.pjrc.com/store/teensy32.html).
-
-I plug it in, it works. Mac/PC/etc - the computer thinks it's a mouse/keyboard.
+- I run this on a [Teensy 3.X](https://www.pjrc.com/store/teensy32.html)
+- I plug it in, it works. Mac/PC/etc - the computer thinks it's a mouse/keyboard
 
 ### other hardware
-You can probably run this just the same on a [Teensy 4.0](https://www.pjrc.com/store/teensy40.html).
-
-You'll need a [USB cable](https://www.amazon.com/AmazonBasics-Male-Micro-Cable-Black/dp/B07232M876/) as well.
+- you can probably run this just the same on a [Teensy 4.0](https://www.pjrc.com/store/teensy40.html)
+- you'll need a [USB cable](https://www.amazon.com/AmazonBasics-Male-Micro-Cable-Black/dp/B07232M876/) as well
 
 ## faq
 1. why did you write this?
