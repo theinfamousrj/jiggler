@@ -1,7 +1,7 @@
 # jiggler
 This is a mouse jiggler. Actually, two mouse jigglers.
 
-It uses actual hardware so you can use this on computers that don't allow you to install things.
+It uses a [teensy microcontroller](https://www.pjrc.com/store/teensy40.html), so you can use this on computers that don't allow you to install applications and still get your mouse jiggling. If you're like me and you don't trust those random $7 amazon hardware jigglers, but also want to be less conspicuous than a giant brick under your mouse, give this a shot.
 
 ## software
 Here you can find the [installation instructions](https://www.pjrc.com/teensy/td_download.html) for all of the teensy stuff you need to get started.
