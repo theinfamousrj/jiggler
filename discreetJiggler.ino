@@ -9,7 +9,7 @@ void setup() {
 void jiggleIt() {
   toggleJiggleLight(HIGH);
   int i;
-  for (i=0; i<10; i++) {
+  for (i=0; i<12; i++) {
     Mouse.move(1, -1);
     delay(25);
     Mouse.move(-1, 1);
